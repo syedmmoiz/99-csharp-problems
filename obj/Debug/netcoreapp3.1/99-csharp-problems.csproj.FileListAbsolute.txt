@@ -1,0 +1,12 @@
+/Users/syedmoiz/Downloads/99-csharp-problems/obj/Debug/netcoreapp3.1/99-csharp-problems.csprojAssemblyReference.cache
+/Users/syedmoiz/Downloads/99-csharp-problems/obj/Debug/netcoreapp3.1/99-csharp-problems.AssemblyInfoInputs.cache
+/Users/syedmoiz/Downloads/99-csharp-problems/obj/Debug/netcoreapp3.1/99-csharp-problems.AssemblyInfo.cs
+/Users/syedmoiz/Downloads/99-csharp-problems/obj/Debug/netcoreapp3.1/99-csharp-problems.csproj.CoreCompileInputs.cache
+/Users/syedmoiz/Downloads/99-csharp-problems/bin/Debug/netcoreapp3.1/99-csharp-problems.deps.json
+/Users/syedmoiz/Downloads/99-csharp-problems/bin/Debug/netcoreapp3.1/99-csharp-problems.runtimeconfig.json
+/Users/syedmoiz/Downloads/99-csharp-problems/bin/Debug/netcoreapp3.1/99-csharp-problems.runtimeconfig.dev.json
+/Users/syedmoiz/Downloads/99-csharp-problems/bin/Debug/netcoreapp3.1/99-csharp-problems.dll
+/Users/syedmoiz/Downloads/99-csharp-problems/bin/Debug/netcoreapp3.1/99-csharp-problems.pdb
+/Users/syedmoiz/Downloads/99-csharp-problems/obj/Debug/netcoreapp3.1/99-csharp-problems.dll
+/Users/syedmoiz/Downloads/99-csharp-problems/obj/Debug/netcoreapp3.1/99-csharp-problems.pdb
+/Users/syedmoiz/Downloads/99-csharp-problems/obj/Debug/netcoreapp3.1/99-csharp-problems.genruntimeconfig.cache
