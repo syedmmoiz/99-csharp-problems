@@ -1,1 +1,1 @@
-* To run a different class, change the class name in <StartupObject></<StartupObject>
+* To run a different class, change the class name in <StartupObject> in the .csproj file
