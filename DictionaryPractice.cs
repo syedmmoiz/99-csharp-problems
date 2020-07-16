@@ -7,7 +7,7 @@ namespace _99_csharp_problems
     {
         static void Main(string[] args) 
         {
-            string s = "abcdef";
+            string s = "abcd";
             IDictionary<int, char> dict = new Dictionary<int, char>();
 
             // Adding Elements
@@ -23,6 +23,7 @@ namespace _99_csharp_problems
             }
 
             // Another example
+            Console.WriteLine();
             IDictionary<int, char> dict2 = new Dictionary<int, char>() 
             {
                 {0, 'g'},
@@ -33,12 +34,21 @@ namespace _99_csharp_problems
 
             foreach(KeyValuePair<int, char> item in dict2) 
             {
-                Console.WriteLine(item.Value);
+                Console.WriteLine("{0}, {1}", item.Key, item.Value);
             }
 
-            foreach(int key in dict2.Keys)
+            // Another example
+            Console.WriteLine();
+            IDictionary<int, char> dict3 = new Dictionary<int, char>();
+
+            for(int i = 0; i < s.Length; i++) 
             {
-                Console.WriteLine(key);
+                dict3[i] = s[i];
+            }
+
+            foreach(KeyValuePair<int, char> item in dict3) 
+            {
+                Console.WriteLine("{0}, {1}", item.Key, item.Value);
             }
         }
     }
